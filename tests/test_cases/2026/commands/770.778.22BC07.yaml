@@ -1,0 +1,22 @@
+command_id: 770.778.22BC07
+test_cases:
+- expected_values:
+    STARIA_DEFOG_LIGHT: 0
+  response: |-
+    778100B62BC07084013
+    778210E00000000AAAA
+- expected_values:
+    STARIA_DEFOG_LIGHT: 0
+  response: |-
+    778100B62BC07084013
+    778210E00000840AAAA
+- expected_values:
+    STARIA_DEFOG_LIGHT: 0
+  response: |-
+    778100B62BC07084013
+    778210E10000000AAAA
+- expected_values:
+    STARIA_DEFOG_LIGHT: 0
+  response: |-
+    778100B62BC07084013
+    778210E10000840AAAA
