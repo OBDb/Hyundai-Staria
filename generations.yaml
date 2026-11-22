@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Hyundai_Staria"
+
+generations:
+  - name: "First Generation (US4)"
+    start_year: 2021
+    end_year: null
+    description: "The Staria replaced the Starex (H-1) as Hyundai's large van, on the N3 platform shared with the fourth-generation Kia Carnival. It was launched with a 3.5L V6 gasoline engine, a 3.5L LPG engine and a 2.2L CRDi diesel, with an eight-speed automatic. A 1.6L turbocharged hybrid with a six-speed automatic, shared with the Santa Fe and Carnival hybrids, joined the range with the 2025 facelift."
