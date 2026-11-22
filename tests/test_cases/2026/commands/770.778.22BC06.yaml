@@ -1,0 +1,27 @@
+command_id: 770.778.22BC06
+test_cases:
+- expected_values:
+    STARIA_BRAKE_LIGHT: 0
+  response: |-
+    778100B62BC06B40230
+    778210000000000AAAA
+- expected_values:
+    STARIA_BRAKE_LIGHT: 0
+  response: |-
+    778100B62BC06B40230
+    778210000000200AAAA
+- expected_values:
+    STARIA_BRAKE_LIGHT: 44
+  response: |-
+    778100B62BC06B40230
+    77821002C000000AAAA
+- expected_values:
+    STARIA_BRAKE_LIGHT: 45
+  response: |-
+    778100B62BC06B40230
+    77821002D000000AAAA
+- expected_values:
+    STARIA_BRAKE_LIGHT: 45
+  response: |-
+    778100B62BC06B40230
+    77821002D000800AAAA

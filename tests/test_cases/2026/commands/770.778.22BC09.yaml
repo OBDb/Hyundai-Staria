@@ -1,0 +1,26 @@
+command_id: 770.778.22BC09
+test_cases:
+- expected_values:
+    STARIA_HL_HIGH: 0
+    STARIA_HL_LOW: 0
+  response: |-
+    778100B62BC093020CF
+    77821CC00003000AAAA
+- expected_values:
+    STARIA_HL_HIGH: 0
+    STARIA_HL_LOW: 0
+  response: |-
+    778100B62BC093020CF
+    77821CC0000F000AAAA
+- expected_values:
+    STARIA_HL_HIGH: 0
+    STARIA_HL_LOW: 0
+  response: |-
+    778100B62BC093020CF
+    77821CC00043000AAAA
+- expected_values:
+    STARIA_HL_HIGH: 0
+    STARIA_HL_LOW: 0
+  response: |-
+    778100B62BC093020CF
+    77821CC0004F000AAAA

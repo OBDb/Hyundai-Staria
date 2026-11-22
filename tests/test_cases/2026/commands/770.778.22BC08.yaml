@@ -1,0 +1,26 @@
+command_id: 770.778.22BC08
+test_cases:
+- expected_values:
+    STARIA_TURN_L: 0
+    STARIA_TURN_R: 0
+  response: |-
+    778100B62BC08A0578F
+    77821BC00000018AAAA
+- expected_values:
+    STARIA_TURN_L: 0
+    STARIA_TURN_R: 0
+  response: |-
+    778100B62BC08A0578F
+    77821BC0000011CAAAA
+- expected_values:
+    STARIA_TURN_L: 0
+    STARIA_TURN_R: 0
+  response: |-
+    778100B62BC08A0578F
+    77821BC0008011CAAAA
+- expected_values:
+    STARIA_TURN_L: 1
+    STARIA_TURN_R: 0
+  response: |-
+    778100B62BC08A0578F
+    77821BC0200011CAAAA
